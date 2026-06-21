@@ -22,10 +22,9 @@ The purpose of this project is to demonstrate real-world manual QA skills includ
 
 ## Deliverables
 - Test Strategy
-- 40+ Test Cases
-- 5+ Bug Reports
+- Test Cases
+- Bug Reports
 - Exploratory Testing Sessions
-- API Test Collection
 - Test Execution Summary
 
 ## Tools Used
